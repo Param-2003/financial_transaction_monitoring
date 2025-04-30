@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Spark output files
+high_risk_transactions_output/
+*.log
+
+# Environment files
+.env
+*.env
+*.egg-info/
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python environments
+venv/
+.env/
+.spark-env/
+
+# VSCode/Jupyter config
+.vscode/
+.idea/
