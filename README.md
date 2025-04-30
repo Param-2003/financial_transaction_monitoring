@@ -52,8 +52,11 @@ financial-transaction-monitoring-pyspark/
 ├── notebooks/
 │   └── financial_transaction_monitoring_pyspark.ipynb
 ├── high_risk_transactions_output/
-├── README.md
-└── requirements.txt
+├── .gitignore
+├── LICENSE
+├── requirements.txt
+└── README.md
+
 ```
 
 ---
@@ -111,5 +114,12 @@ This notebook runs locally with a SparkSession for demonstration. In production,
 - **Email:** rahulshekhawat408@gmail.com  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/paramveer-singh-shekhawat-376a1a244/)  
 - **GitHub:** [GitHub Profile](https://github.com/Param-2003)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this code with attribution.
 
 ---
